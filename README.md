@@ -16,11 +16,15 @@ State Management: React Hooks (useState, useEffect) for dynamic UI updates.
 
 ⚙️ Installation & Setup
 Clone the repository
+
 git clone https://github.com/Amrutha-125/travel-budget-planner.git
+
 cd travel-budget-planner
 
 Install dependencies
+
 npm install
 
 Run Development Server
+
 npm run dev
